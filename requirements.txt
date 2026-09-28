@@ -1,0 +1,7 @@
+# Core Dependency
+numpy>=1.23.0
+
+# Optional / Testing & Development Dependencies
+pytest>=7.0.0
+matplotlib>=3.6.0
+scipy>=1.9.0
